@@ -1,6 +1,6 @@
 name = "Notcurses_jll"
 uuid = "56927b6a-812d-5b37-a4c6-b46ab6359194"
-version = "3.0.2+0"
+version = "3.0.2+1"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
