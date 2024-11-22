@@ -1,143 +1,143 @@
 [[Notcurses]]
 arch = "aarch64"
-git-tree-sha1 = "23a960f60b49f0cfd903b0f4720b13f62ed7f1a3"
+git-tree-sha1 = "6efc40642615a08c0d78b1ac86930d52270a4363"
 os = "macos"
 
     [[Notcurses.download]]
-    sha256 = "c764c974cc69b857f551cfa76e41889f1d84929759e8bcd1603c11a5ecf9e323"
-    url = "https://github.com/JuliaBinaryWrappers/Notcurses_jll.jl/releases/download/Notcurses-v3.0.9+1/Notcurses.v3.0.9.aarch64-apple-darwin.tar.gz"
+    sha256 = "994b265b5b85e138266cdca14574adbce58f8c82f85bae3c7ce74674bbe65c37"
+    url = "https://github.com/JuliaBinaryWrappers/Notcurses_jll.jl/releases/download/Notcurses-v3.0.11+0/Notcurses.v3.0.11.aarch64-apple-darwin.tar.gz"
 [[Notcurses]]
 arch = "aarch64"
-git-tree-sha1 = "dee57d0b11d39886935269d14f1db57810e2af98"
+git-tree-sha1 = "68cdb26054b3cd574de900be63a941226e643b07"
 libc = "glibc"
 os = "linux"
 
     [[Notcurses.download]]
-    sha256 = "142b46551cab52a22b629bc16bb8bd0f7e0bcb88f1b4a5898b050cfc36238fa9"
-    url = "https://github.com/JuliaBinaryWrappers/Notcurses_jll.jl/releases/download/Notcurses-v3.0.9+1/Notcurses.v3.0.9.aarch64-linux-gnu.tar.gz"
+    sha256 = "7a88d6f47c59b68d7eb0bec595921ddfd92e047763a849ec4013354d99df8a12"
+    url = "https://github.com/JuliaBinaryWrappers/Notcurses_jll.jl/releases/download/Notcurses-v3.0.11+0/Notcurses.v3.0.11.aarch64-linux-gnu.tar.gz"
 [[Notcurses]]
 arch = "aarch64"
-git-tree-sha1 = "e5f527504bc1d798c4d4c829abfa8b03d346d6ee"
+git-tree-sha1 = "ccaeb26658bc9a6d961c9c18e789edbf7f38ce5d"
 libc = "musl"
 os = "linux"
 
     [[Notcurses.download]]
-    sha256 = "5c1e27dd5ecbdfa93b698e1564d6771c8b2b08f992ebe82a6053e6bed8ab245e"
-    url = "https://github.com/JuliaBinaryWrappers/Notcurses_jll.jl/releases/download/Notcurses-v3.0.9+1/Notcurses.v3.0.9.aarch64-linux-musl.tar.gz"
+    sha256 = "16b0df2a464c8207ffae4cb07569beaeaf20412bd45fb85e6de6e8075243045f"
+    url = "https://github.com/JuliaBinaryWrappers/Notcurses_jll.jl/releases/download/Notcurses-v3.0.11+0/Notcurses.v3.0.11.aarch64-linux-musl.tar.gz"
 [[Notcurses]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "7ff8609e74a5ab40c16fa35ae4e1899d6e5837c4"
+git-tree-sha1 = "02a63f3a1ed526ab38b3cdcd2f4bf5e2faa1c5ef"
 libc = "glibc"
 os = "linux"
 
     [[Notcurses.download]]
-    sha256 = "b5a1ee77895abe73424ae8172e5109ab01e67c2b33bdabbaafeb052cfa9834c3"
-    url = "https://github.com/JuliaBinaryWrappers/Notcurses_jll.jl/releases/download/Notcurses-v3.0.9+1/Notcurses.v3.0.9.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "92190d871384afeb756071dcf9b68150328126f9d68a4e9b5654db6055a2e3a4"
+    url = "https://github.com/JuliaBinaryWrappers/Notcurses_jll.jl/releases/download/Notcurses-v3.0.11+0/Notcurses.v3.0.11.armv6l-linux-gnueabihf.tar.gz"
 [[Notcurses]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "e2271fa45587a40aabafb86f2b9a24ed847cc4a5"
+git-tree-sha1 = "d51b6f12e1321229396399c2904a87b0c61ffccb"
 libc = "musl"
 os = "linux"
 
     [[Notcurses.download]]
-    sha256 = "438ffa6d96757603276fbd35240e38ba2a3435931c437a52dc9da970718262c4"
-    url = "https://github.com/JuliaBinaryWrappers/Notcurses_jll.jl/releases/download/Notcurses-v3.0.9+1/Notcurses.v3.0.9.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "18ead0122ab89338112f8252505b49da5dae215e540fcb3254401fa26f66f34a"
+    url = "https://github.com/JuliaBinaryWrappers/Notcurses_jll.jl/releases/download/Notcurses-v3.0.11+0/Notcurses.v3.0.11.armv6l-linux-musleabihf.tar.gz"
 [[Notcurses]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "1cf284d9735b9376613ad10734470a27935a9d65"
+git-tree-sha1 = "c817fdad7ba52a5918e08582814a40997dddb9ce"
 libc = "glibc"
 os = "linux"
 
     [[Notcurses.download]]
-    sha256 = "ad860aaf00b8b349d15bd4888bff2c87379ca87eafb8afb9ff8fd106c6707bb2"
-    url = "https://github.com/JuliaBinaryWrappers/Notcurses_jll.jl/releases/download/Notcurses-v3.0.9+1/Notcurses.v3.0.9.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "e655d50a19a293dab94b67c246ce0452a620940a3f918849c610f8be1197c7fd"
+    url = "https://github.com/JuliaBinaryWrappers/Notcurses_jll.jl/releases/download/Notcurses-v3.0.11+0/Notcurses.v3.0.11.armv7l-linux-gnueabihf.tar.gz"
 [[Notcurses]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "206d6c0a02cf619d54cfb46f07db3e08641438c7"
+git-tree-sha1 = "124505667ac5cab9b83bd423aa7bc4fdc0776747"
 libc = "musl"
 os = "linux"
 
     [[Notcurses.download]]
-    sha256 = "cfc7b16113cc25ab3e57c583dc307f758c9fa841087b68ab7048de9afb338486"
-    url = "https://github.com/JuliaBinaryWrappers/Notcurses_jll.jl/releases/download/Notcurses-v3.0.9+1/Notcurses.v3.0.9.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "4d44cf89688332d39e242ffc3a04c8385a17d0b63dfe6d625ea0712d77394ae9"
+    url = "https://github.com/JuliaBinaryWrappers/Notcurses_jll.jl/releases/download/Notcurses-v3.0.11+0/Notcurses.v3.0.11.armv7l-linux-musleabihf.tar.gz"
 [[Notcurses]]
 arch = "i686"
-git-tree-sha1 = "0b69f6b50528bf0c26ed5fb35f581c820f5f75d7"
+git-tree-sha1 = "bec652997e2c37a49632126f1e5b75e2e31b76f5"
 libc = "glibc"
 os = "linux"
 
     [[Notcurses.download]]
-    sha256 = "484b38f3ed8dd79f013f84646e2584f1f6ed1159a6f601fe6d52b8130542917b"
-    url = "https://github.com/JuliaBinaryWrappers/Notcurses_jll.jl/releases/download/Notcurses-v3.0.9+1/Notcurses.v3.0.9.i686-linux-gnu.tar.gz"
+    sha256 = "dbca41f1d997194d5eed3672c489cb243705e100eaa7bcf2c3ee47890bd64954"
+    url = "https://github.com/JuliaBinaryWrappers/Notcurses_jll.jl/releases/download/Notcurses-v3.0.11+0/Notcurses.v3.0.11.i686-linux-gnu.tar.gz"
 [[Notcurses]]
 arch = "i686"
-git-tree-sha1 = "83ca81bb4e37daf3687f02b65e38dc83dc755e50"
+git-tree-sha1 = "761d13bb98b9da3588edab29b096ed923c07efec"
 libc = "musl"
 os = "linux"
 
     [[Notcurses.download]]
-    sha256 = "dbf4e1fafc1540eefc0f32897ca1b18cd8aaa61bc138456d4e12786d688e309e"
-    url = "https://github.com/JuliaBinaryWrappers/Notcurses_jll.jl/releases/download/Notcurses-v3.0.9+1/Notcurses.v3.0.9.i686-linux-musl.tar.gz"
+    sha256 = "2905bcf57a5aa2631bfe7b9e38eea3752538ebb0234b59e395ec3f4d90265a30"
+    url = "https://github.com/JuliaBinaryWrappers/Notcurses_jll.jl/releases/download/Notcurses-v3.0.11+0/Notcurses.v3.0.11.i686-linux-musl.tar.gz"
 [[Notcurses]]
 arch = "i686"
-git-tree-sha1 = "dd70f904b83881b1c2288be94a40e449aae6f446"
+git-tree-sha1 = "9ca15984c465980f76c1811ff2734613440a0e59"
 os = "windows"
 
     [[Notcurses.download]]
-    sha256 = "f68af8d54f6951dc840e8c74e73f0c83bacc0ad8a4367ffa8333ba44895791f1"
-    url = "https://github.com/JuliaBinaryWrappers/Notcurses_jll.jl/releases/download/Notcurses-v3.0.9+1/Notcurses.v3.0.9.i686-w64-mingw32.tar.gz"
+    sha256 = "73e0c4a39a703254fcc93461f1104f6b3b236f063b9ebbe24b6149cab8eafeab"
+    url = "https://github.com/JuliaBinaryWrappers/Notcurses_jll.jl/releases/download/Notcurses-v3.0.11+0/Notcurses.v3.0.11.i686-w64-mingw32.tar.gz"
 [[Notcurses]]
 arch = "powerpc64le"
-git-tree-sha1 = "20024e2a83084ce4103bbdc94eeeeed1a9532da5"
+git-tree-sha1 = "eb7e016a5956faee7dfb62afc6527290587a137b"
 libc = "glibc"
 os = "linux"
 
     [[Notcurses.download]]
-    sha256 = "81640dba88fd12e37ca24647136fb0441fdb45495b00f9f282d621d474bc257c"
-    url = "https://github.com/JuliaBinaryWrappers/Notcurses_jll.jl/releases/download/Notcurses-v3.0.9+1/Notcurses.v3.0.9.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "8d7c14bc717b9618ce3224368d9c066744bb30e092f6ecc09cf157b63fccbf1c"
+    url = "https://github.com/JuliaBinaryWrappers/Notcurses_jll.jl/releases/download/Notcurses-v3.0.11+0/Notcurses.v3.0.11.powerpc64le-linux-gnu.tar.gz"
 [[Notcurses]]
 arch = "x86_64"
-git-tree-sha1 = "8803ec8f7ce07be6d39c46ed8193161b18fd5d43"
+git-tree-sha1 = "ea73e53bc3cce8faeff2322e1fafa9fddc4a5b37"
 os = "macos"
 
     [[Notcurses.download]]
-    sha256 = "4955f02b97fe0bd59feb65058712e9033efe85cc97abef529782d83a80333166"
-    url = "https://github.com/JuliaBinaryWrappers/Notcurses_jll.jl/releases/download/Notcurses-v3.0.9+1/Notcurses.v3.0.9.x86_64-apple-darwin.tar.gz"
+    sha256 = "abc48c69f0d97a3f323996b9ac2c9e6a9f2e06f14c69d56f185eacb27c09854d"
+    url = "https://github.com/JuliaBinaryWrappers/Notcurses_jll.jl/releases/download/Notcurses-v3.0.11+0/Notcurses.v3.0.11.x86_64-apple-darwin.tar.gz"
 [[Notcurses]]
 arch = "x86_64"
-git-tree-sha1 = "00702975af47962ff28511a3365de0b604c2c225"
+git-tree-sha1 = "85dd1f3b7f875445e27c492033ed06800dffe234"
 libc = "glibc"
 os = "linux"
 
     [[Notcurses.download]]
-    sha256 = "01156f1f2c11587b6544ac34afc92f53f27da11da8cf3cf4c2291695aa800ed9"
-    url = "https://github.com/JuliaBinaryWrappers/Notcurses_jll.jl/releases/download/Notcurses-v3.0.9+1/Notcurses.v3.0.9.x86_64-linux-gnu.tar.gz"
+    sha256 = "f7d9a9ee132d5093648b2599548a2e28f8f3520926ac336edea1825c2f2e5a4c"
+    url = "https://github.com/JuliaBinaryWrappers/Notcurses_jll.jl/releases/download/Notcurses-v3.0.11+0/Notcurses.v3.0.11.x86_64-linux-gnu.tar.gz"
 [[Notcurses]]
 arch = "x86_64"
-git-tree-sha1 = "56eb0fd6680ccbb62f2e59ff89581c13ed2be2b9"
+git-tree-sha1 = "1dd6fa3aa8e24beeb068f601cff770a808f7b4f9"
 libc = "musl"
 os = "linux"
 
     [[Notcurses.download]]
-    sha256 = "8d8746ae87f7381739f2e4fba89d6c339e3ec80efe2fee206c2bb23925521692"
-    url = "https://github.com/JuliaBinaryWrappers/Notcurses_jll.jl/releases/download/Notcurses-v3.0.9+1/Notcurses.v3.0.9.x86_64-linux-musl.tar.gz"
+    sha256 = "4b26048ea67b295bc71948ac9dda67c9cb4c5adb33a88e3f8060471f22a39321"
+    url = "https://github.com/JuliaBinaryWrappers/Notcurses_jll.jl/releases/download/Notcurses-v3.0.11+0/Notcurses.v3.0.11.x86_64-linux-musl.tar.gz"
 [[Notcurses]]
 arch = "x86_64"
-git-tree-sha1 = "550d49fcaa2f74c51ed0c7a96eb360018cf340d0"
+git-tree-sha1 = "136f3b2dd94d0ee1478c0ed4acd74f2c01a9c30a"
 os = "freebsd"
 
     [[Notcurses.download]]
-    sha256 = "d86a9603e7c6ef0cba4f9251ebd47e4c342dc3181740555ceb3804b132749e5d"
-    url = "https://github.com/JuliaBinaryWrappers/Notcurses_jll.jl/releases/download/Notcurses-v3.0.9+1/Notcurses.v3.0.9.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "0a28d35d782e4edc2e82d677132bbb0e79b97f86d23a8723b989f8db66a23642"
+    url = "https://github.com/JuliaBinaryWrappers/Notcurses_jll.jl/releases/download/Notcurses-v3.0.11+0/Notcurses.v3.0.11.x86_64-unknown-freebsd.tar.gz"
 [[Notcurses]]
 arch = "x86_64"
-git-tree-sha1 = "097f6a6757373dae8c6ea05543872d5424fe6077"
+git-tree-sha1 = "8e5b60cbfd2c8d5063856b0bafbc5fcaf59b48a6"
 os = "windows"
 
     [[Notcurses.download]]
-    sha256 = "a5178c1feaf40878bb7c06009b45da7d13846aeeb47b41bac41ca996f02b4746"
-    url = "https://github.com/JuliaBinaryWrappers/Notcurses_jll.jl/releases/download/Notcurses-v3.0.9+1/Notcurses.v3.0.9.x86_64-w64-mingw32.tar.gz"
+    sha256 = "6e73bc73a9fc63423b29f674c32ce5a8c4d3e0e093851f3981d3a4fc294cb906"
+    url = "https://github.com/JuliaBinaryWrappers/Notcurses_jll.jl/releases/download/Notcurses-v3.0.11+0/Notcurses.v3.0.11.x86_64-w64-mingw32.tar.gz"

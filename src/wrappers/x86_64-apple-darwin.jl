@@ -15,19 +15,19 @@ function __init__()
     JLLWrappers.@generate_init_header(FFMPEG_jll, Ncurses_jll, libdeflate_jll, libunistring_jll)
     JLLWrappers.@init_library_product(
         libnotcurses,
-        "lib/libnotcurses.3.0.9.dylib",
+        "lib/libnotcurses.3.0.11.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libnotcurses_core,
-        "lib/libnotcurses-core.3.0.9.dylib",
+        "lib/libnotcurses-core.3.0.11.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libnotcurses_ffi,
-        "lib/libnotcurses-ffi.3.0.9.dylib",
+        "lib/libnotcurses-ffi.3.0.11.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
