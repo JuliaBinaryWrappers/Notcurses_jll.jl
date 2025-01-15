@@ -1,6 +1,6 @@
 name = "Notcurses_jll"
 uuid = "56927b6a-812d-5b37-a4c6-b46ab6359194"
-version = "3.0.12+0"
+version = "3.0.13+0"
 
 [deps]
 FFMPEG_jll = "b22a6f82-2f65-5046-a5b2-351ab43fb4e5"
